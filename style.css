@@ -11,8 +11,8 @@ font-family: 'Lexend Deca', sans-serif;*/
 body{
     background-color: hsl(0, 0%, 95%);
     min-height: 100vh;
-    width: 90%;
-    margin: 5rem 1rem;
+    width: 80%;
+    margin: 5rem auto;
 }
 
 .card{
