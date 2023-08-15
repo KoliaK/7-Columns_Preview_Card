@@ -12,7 +12,7 @@ body{
     background-color: hsl(0, 0%, 95%);
     min-height: 100vh;
     width: 90%;
-    margin: 5rem auto;
+    margin: 5rem 1rem;
 }
 
 .card{
@@ -83,7 +83,6 @@ p{
 }
 
 .column-left{
-    margin: 0 auto;
     width: 70%;
     padding: 10% 10% 10%;
     height: 65vh;
@@ -99,7 +98,6 @@ p{
 }
 
 .column-center{
-    margin: 0 auto;
     width: 70%;
     padding: 10% 10% 10%;
     height: 65vh;
@@ -114,7 +112,6 @@ p{
 }
 
 .column-right{
-    margin: 0 auto;
     width: 70%;
     padding: 10% 10% 10%;
     height: 65vh;
