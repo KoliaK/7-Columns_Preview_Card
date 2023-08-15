@@ -9,7 +9,7 @@ font-family: 'Lexend Deca', sans-serif;*/
 }
 
 body{
-    background-color: red;
+    background-color: hsl(0, 0%, 95%);
     min-height: 100vh;
     width: 90%;
     margin: 5rem auto;
@@ -85,7 +85,7 @@ p{
 .column-left{
     padding: 10% 10% 10%;
     height: 65vh;
-    width: 70%;
+    width: 90%;
     display: flex;
     flex-direction: column;
     align-items:flex-start;
@@ -99,7 +99,7 @@ p{
 .column-center{
     padding: 10% 10% 10%;
     height: 65vh;
-    width: 70%;
+    width: 90%;
     display: flex;
     flex-direction: column;
     align-items:flex-start;
@@ -112,7 +112,7 @@ p{
 .column-right{
     padding: 10% 10% 10%;
     height: 65vh;
-    width: 70%;
+    width: 90%;
     display: flex;
     flex-direction: column;
     align-items:flex-start;
